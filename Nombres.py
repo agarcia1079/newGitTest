@@ -1,3 +1,3 @@
 Nombres = ['Armando','Garcia','Rivera']
-for i in nombres:
+for i in Nombres:
     print i
